@@ -15,7 +15,7 @@ public Car(String name, String model, String brand, String color) {
 	this.model = model;
 	this.brand = brand;
 	this.color = color;
-	Engine e=new Engine("Honda",4);
+	Engine e=new Engine("Swift",4);
 	
 	this.e=e;	
 }
