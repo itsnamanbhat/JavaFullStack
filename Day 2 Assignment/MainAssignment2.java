@@ -8,7 +8,7 @@ public static void main(String[] args) {
 	it[1]=new Items("cookies",50);
 	it[2]=new Items("dates",120);
 	
-	Orders o=new Orders(117,190,"Harsha",it);
+	Orders o=new Orders(134,190,"NamanBhat",it);
 	System.out.println("Order Class Object");
 	System.out.println(o);
 	
